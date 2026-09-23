@@ -326,7 +326,6 @@ Sms_Spam_Detection/
 ├── spam.csv
 ├── model.pkl
 ├── vectorizer.pkl
-├── app.py
 ├── requirements.txt
 └── README.md
 
